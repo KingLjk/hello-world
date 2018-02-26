@@ -15,6 +15,7 @@
 		638DC5B12043D93B00CABC43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638DC5AF2043D93B00CABC43 /* LaunchScreen.storyboard */; };
 		638DC5B42043D93B00CABC43 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 638DC5B32043D93B00CABC43 /* main.m */; };
 		638DC5BC204401A600CABC43 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 638DC5BB204401A600CABC43 /* HomeViewController.m */; };
+		638DC5BF2044036B00CABC43 /* Home1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 638DC5BE2044036B00CABC43 /* Home1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		638DC5B32043D93B00CABC43 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		638DC5BA204401A600CABC43 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		638DC5BB204401A600CABC43 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		638DC5BD2044036B00CABC43 /* Home1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Home1ViewController.h; sourceTree = "<group>"; };
+		638DC5BE2044036B00CABC43 /* Home1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Home1ViewController.m; sourceTree = "<group>"; };
 		8DD0DEAC85FAA443367290C0 /* Pods-TEST.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TEST.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TEST/Pods-TEST.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +91,8 @@
 				638DC5B32043D93B00CABC43 /* main.m */,
 				638DC5BA204401A600CABC43 /* HomeViewController.h */,
 				638DC5BB204401A600CABC43 /* HomeViewController.m */,
+				638DC5BD2044036B00CABC43 /* Home1ViewController.h */,
+				638DC5BE2044036B00CABC43 /* Home1ViewController.m */,
 			);
 			path = TEST;
 			sourceTree = "<group>";
@@ -226,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				638DC5A92043D93B00CABC43 /* ViewController.m in Sources */,
+				638DC5BF2044036B00CABC43 /* Home1ViewController.m in Sources */,
 				638DC5B42043D93B00CABC43 /* main.m in Sources */,
 				638DC5A62043D93B00CABC43 /* AppDelegate.m in Sources */,
 				638DC5BC204401A600CABC43 /* HomeViewController.m in Sources */,
